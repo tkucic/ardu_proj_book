@@ -1,6 +1,5 @@
 {
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
-    "port": "COM4",
-    "sketch": "04. Color mixing lamp\\script.ino"
+    "port": "COM4"
 }
