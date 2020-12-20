@@ -52,7 +52,6 @@ void loop(){
         digitalWrite(controlPin1, LOW);
         digitalWrite(controlPin2, HIGH);
     }
-
     //Actual motor control
     if (motorEnabled == 1){
         analogWrite(enablePin, motorSpeed);
