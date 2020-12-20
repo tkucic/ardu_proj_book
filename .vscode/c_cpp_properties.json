@@ -3,6 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\PboY_\\Documents\\Arduino\\libraries\\arduino-libraries-CapacitiveSensor-a07209f",
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Users\\PboY_\\Documents\\Arduino\\libraries\\**",
                 "C:\\Program Files (x86)\\Arduino\\libraries\\**",
